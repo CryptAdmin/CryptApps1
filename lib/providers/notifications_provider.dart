@@ -196,7 +196,7 @@ class NotificationsProvider {
                 channelDescription: channelDescription,
                 importance: importance,
                 priority: importanceToPriority[importance]!,
-                groupKey: 'dev.imranr.obtainium.$channelCode',
+                groupKey: 'dev.cryptAdmin.cryptApps1.$channelCode',
                 progress: progPercent ?? 0,
                 maxProgress: 100,
                 showProgress: progPercent != null,

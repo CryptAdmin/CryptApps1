@@ -1,4 +1,4 @@
-package dev.imranr.obtainium
+package dev.cryptAdmin.cryptApps1
 
 import io.flutter.embedding.android.FlutterActivity
 

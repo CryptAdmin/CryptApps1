@@ -134,9 +134,9 @@ class _ObtainiumState extends State<Obtainium> {
         appsProvider.saveApps([
           App(
               obtainiumId,
-              'https://github.com/ImranR98/Obtainium',
-              'ImranR98',
-              'Obtainium',
+              'https://github.com/CryptAdmin/CryptApps1',
+              'CryptAdmin',
+              'CryptApps1',
               currentReleaseTag,
               currentReleaseTag,
               [],

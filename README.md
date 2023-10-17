@@ -1,8 +1,8 @@
-# ![Obtainium Icon](./assets/graphics/icon_small.png) Obtainium
+# ![Obtainium Icon](./assets/graphics/icon_small.png) CryptApps
 
 Get Android App Updates Directly From the Source.
 
-Obtainium allows you to install and update Apps directly from their releases pages, and receive notifications when new releases are made available.
+CryptApps allows you to install and update Apps directly from their releases pages, and receive notifications when new releases are made available.
 
 Motivation: [Side Of Burritos - You should use this instead of F-Droid | How to use app RSS feed](https://youtu.be/FFz57zNR_M0)
 
@@ -37,7 +37,7 @@ Currently supported App sources:
 
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
     alt="Get it on GitHub"
-    height="80">](https://github.com/ImranR98/Obtainium/releases)
+    height="80">](https://github.com/CryptAdmin/CryptApps1/releases)
 
 [PGP Public Key](https://keyserver.ubuntu.com/pks/lookup?search=contact%40imranr.dev&fingerprint=on&op=index)
 
